@@ -4,3 +4,4 @@ data/*.parquet
 data/toutiao_cat_data*.csv
 data/product_names.csv
 .DS_Store
+.env
